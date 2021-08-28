@@ -3,11 +3,11 @@
 #include <time.h>
 
 /**
- *Main - the entry point
+ *main - the entry point
  *
- *The code displays the last digit of numbers stored in n variable
+ *Description: The code displays the last digit of numbers stored in n variable
  *
- * Return: return 0 to successful excution
+ * Return: return 0  successfull excution
  */
 
 int main(void)
