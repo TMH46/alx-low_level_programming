@@ -1,13 +1,15 @@
 #include<stdio.h>
 
 /**
- * main function the first function all others contained
- * we use puts function to print a string to the output stream
- * return(0) means return to whomever it called in
+ * main function: the entry point
+ * 
+ * return(0): returns to the calling function
+ *
+ * description: the code prints the string using puts
  */
 
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");
+puts ("\"Programming is like building a multilingual puzzle");
 return(0);
 }
