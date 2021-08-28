@@ -1,15 +1,11 @@
 #include<stdio.h>
-
 /**
- * main function: the entry point
- * 
- * return(0): returns to the calling function
+ * main function - the entry point
  *
- * description: the code prints the string using puts
+ * return(0): returns to the calling function
  */
-
 int main(void)
 {
-puts ("\"Programming is like building a multilingual puzzle");
-return(0);
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
