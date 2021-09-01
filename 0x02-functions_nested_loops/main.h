@@ -1,5 +1,2 @@
-#ifndef MAIN_H
-#define MAIN_H
+/* function prototypes included in the main header*/
 int _putchar(char c);
-
-#endif
