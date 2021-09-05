@@ -1,19 +1,22 @@
 #include "main.h"
 
 /**
- *main - Starting point
+ *main - Entry point
  *
- *Return: Always (0) 
+ *Return: return (0) success
  */
+
 int main(void)
 {
-	char c[10] = "Holberton";
-	int i;
-
-	for(i = 0; i < 10; i++);
-	{
-		_putchar(c[i]);
-	}
+	_putchar('H');
+	_putchar('O');
+	_putchar('l');
+	_putchar('b');
+	_putchar('e');
+	_putchar('r');
+	_putchar('t');
+	_putchar('o');
+	_putchar('n');
 	_putchar('\n');
 
 	return (0);
