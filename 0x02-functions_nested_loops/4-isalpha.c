@@ -3,6 +3,7 @@
 /**
  *_isalpha - Checks for letters
  *
+ * @c: check for lowercase
  *
  *Return: (1) if c is a letter, and 0 otherwise
  */
